@@ -1,6 +1,5 @@
-#Magfur HJ
 <h1 align="center">Hi 👋, I'm Magfur HJ</h1>
-<h3 align="center">A passionate front-backend developer :)</h3>
+<h3 align="center">A passionate front-backend developer </h3>
 <br>
 <br>
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=jaffery97&label=Profile%20views&color=0e75b6&style=flat" alt="magfur" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
