@@ -2,7 +2,7 @@
 <h3 align="center">A passionate front-end developer </h3>
 <br>
 <br>
-<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=jaffery97&label=Profile%20views&color=0e75b6&style=flat" alt="magfur" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
+<p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=jaffery97&label=Profile%20views&color=0e75b6&style=flat" alt="jaffery97" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
 <!-- <br> - ⚡ Fun fact ** Secret Coding** -->
 <br>
 <br>
@@ -30,3 +30,15 @@
 <br>
 <br>
 <br>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffery97&theme=dark&date_format=M%20j%5B%2C%20Y%5D&border=FF4500&ring=FF4500&currStreakNum=F1F1F1&sideNums=E2E0DE&currStreakLabel=FF4E01&sideLabels=FF5600&stroke=FF4500&fire=FE4906&dates=E5E5E5)](https://git.io/streak-stats" /></p>
+
+<br>
+<br>
+
+
+
+
+## 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jaffery97&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="jaffery97"/></p>
