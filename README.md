@@ -29,7 +29,7 @@
      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/wordpress.org/files/2023/02/simplified.png?w=500&ssl=1" alt="xd" width="40" height="40" /> </a>
      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.drupal.org/files/EL_blue_RGB%281%29.png" alt="xd" width="40" height="40" /> </a>
      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://cdn.shopify.com/shopifycloud/brochure/assets/brand-assets/shopify-logo-primary-logo-456baa801ee66a0a435671082365958316831c9960c480451dd0330bcdae304f.svg" alt="xd" width="40" height="40" /> </a>
-     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-60.png" alt="xd" width="40" height="40" /> </a>
+     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" alt="xd" width="40" height="40" /> </a>
     
 </p>
 <br>
