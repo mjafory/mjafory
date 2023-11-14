@@ -26,6 +26,10 @@
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://labs.mysql.com/common/logos/mysql-logo.svg?v2" alt="xd" width="40" height="40" /> </a>
      <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-60.png" alt="xd" width="40" height="40" /> </a>
+     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="[https://dev.java/assets/images/java-logo-60.png](https://i0.wp.com/wordpress.org/files/2023/02/simplified.png?w=500&ssl=1)" alt="xd" width="40" height="40" /> </a>
+     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="[https://dev.java/assets/images/java-logo-60.png](https://www.drupal.org/files/EL_blue_RGB%281%29.png)" alt="xd" width="40" height="40" /> </a>
+     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="![image](https://github.com/mjafory/mjafory/assets/33932322/04a51f65-5ba6-4294-8b67-f43c87da3e98)" alt="xd" width="40" height="40" /> </a>
+     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-60.png" alt="xd" width="40" height="40" /> </a>
     
 </p>
 <br>
