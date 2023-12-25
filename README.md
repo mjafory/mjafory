@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Magfur</h1>
-<h3 align="center">A passionate <span style="color:yellow;">Front-End Developer</span> </h3>
+<h3 align="center">A passionate `Front-End Developer`{style="color: yellow;"} </h3>
 <br>
 <br>
 <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><img src="https://komarev.com/ghpvc/?username=mjafory&label=Profile%20views&color=0e75b6&style=flat" alt="mjafory" /><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> </p>
